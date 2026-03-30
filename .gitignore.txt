@@ -1,0 +1,5 @@
+/target/
+*.class
+.idea/
+tools/bin/
+.env
